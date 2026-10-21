@@ -28,8 +28,7 @@ py -m pip install -r requirements.txt
 7. 手動執行一次：
 
 ```powershell
-
-py -m pip install -r requirements.txt
+   py -m pip install -r requirements.txt
    py .\\overtime\_calendar.py
    ```
 
